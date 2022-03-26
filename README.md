@@ -29,9 +29,6 @@
   <a href="https://www.root-me.org/Dashstrom" target="_blank">
     <img alt="RootMe" src="https://img.shields.io/badge/rootme-191c22.svg?&style=for-the-badge&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/947067849187426314" target="_blank">
-    <img alt="RootMe" src="https://img.shields.io/badge/rootme-191c22.svg?&style=for-the-badge&logoColor=white" />
-  </a>
 </p>
 
 <h2>My languages and frameworks</h2>
@@ -48,12 +45,11 @@
   <img alt="CSS3" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img alt="MySQL" src="	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 </p>
 
-<hr>
-<br>
+<h2>Statistics</h2>
 <img alt="" src="https://github-readme-stats.vercel.app/api?username=Dashstrom&theme=blue-green" />
