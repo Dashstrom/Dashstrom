@@ -1,4 +1,4 @@
-# ![Hollow Knight](images/left.gif) Howdy, dear coders compatriots ![Hornet](images/rifth.gif)
+# ![Hollow Knight](images/left.gif) Howdy, dear coders compatriots ![Hornet](images/right.gif)
 
 ![Hollow Knigth and Hornet on a small island](images/banner.gif)
 
