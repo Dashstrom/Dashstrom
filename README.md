@@ -6,7 +6,7 @@
 
 🧠 The most complicated thing is to simplify.
 
-💻 DevOps in Cybersecurity
+💻 Developer in Cybersecurity
 
 👨‍🎓 Student in 3nd year of computer science.
 
