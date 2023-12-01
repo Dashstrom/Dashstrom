@@ -6,15 +6,15 @@
 
 🧠 The most complicated thing is to simplify.
 
-💻 Developer in Cybersecurity
+💻 Developer
 
-👨‍🎓 Student in 3nd year of computer science.
+👨‍🎓 Student in 4nd year of computer science.
 
 🐍 Programming enthusiast and Python lover.
 
 🚩 CTF player and codin game.
 
-💀 More than 2700 on RootMe.
+💀 More than 2500 on RootMe.
 
 [![Profile views](https://komarev.com/ghpvc/?username=Dashstrom&style=for-the-badge&color=000000)](https://github.com/Dashstrom)
 [![CTFtime](https://img.shields.io/badge/ctftime-e3000b.svg?&style=for-the-badge&logo=rootme&logoColor=white)](https://ctftime.org/user/112268)
