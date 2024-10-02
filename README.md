@@ -6,7 +6,7 @@
 
 🧠 The most complicated thing is to simplify.
 
-💻 Developer
+💻 DevOps Engineer Apprentice in Digital Forensics.
 
 👨‍🎓 Student in 5nd year of computer science.
 
@@ -14,7 +14,7 @@
 
 🚩 CTF player and codin game.
 
-💀 More than 3000 on RootMe.
+💀 More than 3000 on RootMe (French equivalent of HackTheBox).
 
 [![Profile views](https://komarev.com/ghpvc/?username=Dashstrom&style=for-the-badge&color=000000)](https://github.com/Dashstrom)
 [![CTFtime](https://img.shields.io/badge/ctftime-e3000b.svg?&style=for-the-badge&logo=rootme&logoColor=white)](https://ctftime.org/user/112268)
