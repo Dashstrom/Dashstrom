@@ -6,7 +6,7 @@
 
 🧠 The most complicated thing is to simplify.
 
-💻 DevOps Engineer Apprentice in Digital Forensics.
+💻 DevOps Engineer Apprentice in Cybersecurity.
 
 👨‍🎓 Student in 5nd year of computer science.
 
